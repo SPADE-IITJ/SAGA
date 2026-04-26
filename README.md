@@ -548,9 +548,3 @@ Runtime logs are available under:
 ```text
 $FLINK_HOME/log/
 ```
-
-## 10. Anonymity Notice
-
-This repository is released **anonymously** for peer review.
-No identifying information is included in the code or documentation.
-
